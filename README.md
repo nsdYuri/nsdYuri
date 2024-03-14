@@ -8,12 +8,12 @@
  
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="280" alt="coding-time" src="code.gif">
+    <img align="left" height="300" alt="coding-time" src="code.gif">
 
          
  Principal Tools and Plataforms
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,azure,git,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,azure,git,linux,bash)](https://skillicons.dev)
 
  Back-End
 
@@ -21,7 +21,7 @@
 
  Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,react,nodejs,py,androidstudio,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,react,nodejs,py,androidstudio,vite)](https://skillicons.dev)
 
 
 </div>
