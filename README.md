@@ -1,6 +1,7 @@
 ## Wassup Dev! Welcome to Yuri's Github profile
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsdYuri&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/nsdYuri">
   <img align="right" height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdYuri&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
