@@ -6,25 +6,23 @@
 </div>
 <br>
 
+ 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" height="130" alt="coding-time" src="code.gif">
-</div>
- 
-##       
- Tools and Plataforms
+    <img align="left" height="250" alt="coding-time" src="code.gif">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=visualstudio,git,bash,linux,eclipse,gitlab,vscode)](https://skillicons.dev)
-
+         
  Back-End
-  
+
 [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,nodejs,java,cs,python,mysql,heroku)](https://skillicons.dev)
 
  Front-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,python,vite)](https://skillicons.dev)
-## 
 
+## 
+</div>
+    
   
 <h1 align="center">Redes Sociais</h1>
   <a href = "mailto: yurichichedom808@gmail.com">
