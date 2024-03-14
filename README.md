@@ -8,7 +8,7 @@
  
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="3100" alt="coding-time" src="code.gif">
+    <img align="left" height="310" alt="coding-time" src="code.gif">
 
          
  Principal Tools and Plataforms
