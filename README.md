@@ -1,14 +1,14 @@
 ## Wassup Dev! Welcome to Yuri's Github profile
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nsdYuri&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdYuri&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nsdYuri&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdYuri&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
  
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="300" alt="coding-time" src="code.gif">
+    <img align="left" height="3100" alt="coding-time" src="code.gif">
 
          
  Principal Tools and Plataforms
@@ -21,7 +21,7 @@
 
  Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,react,nodejs,py,androidstudio,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,react,nodejs,py,androidstudio)](https://skillicons.dev)
 
 
 </div>
