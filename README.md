@@ -9,7 +9,7 @@
  
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="300" alt="coding-time" src="code.gif">
+    <img align="left" height="310" alt="coding-time" src="code.gif">
 
          
  Back-End
@@ -20,20 +20,15 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,python,vite)](https://skillicons.dev)
 
-## 
+
 </div>
     
   
-<h1 align="right">Redes Sociais</h1>
-  <a href = "mailto: yurichichedom808@gmail.com">
-    <img width="30" src="gmail.svg">
-  </a>
-  <a href = "www.linkedin.com/in/yuri-ikegwuonu">
-    <img width="25" src="linkedin.svg">
-  </a>
-  <a href = "https://www.instagram.com/yurighost__/">
-    <img width="25" src="instagram.png">
-  </a>
+<h1 align="stretch">Redes Sociais</h1>
+ <div align-items: flex-end>
+    <a href="www.linkedin.com/in/yuri-ikegwuonu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:yurichichedom808@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
