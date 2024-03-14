@@ -11,13 +11,17 @@
     <img align="left" height="310" alt="coding-time" src="code.gif">
 
          
+ Principal Tools and Plataforms
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,azure,git,linux,bash)](https://skillicons.dev)
+
  Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,nodejs,cs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,javascript,nodejs,cs,mysql)](https://skillicons.dev)
 
  Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,react,nodejs,python,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,react,nodejs,py,androidstudio,vite,vercel)](https://skillicons.dev)
 
 
 </div>
